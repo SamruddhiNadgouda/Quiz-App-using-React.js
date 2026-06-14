@@ -7,8 +7,6 @@ As you answer questions, the app instantly updates your score and provides a com
 # Demo
 
  [WEBSITE-Demo](https://vinayak9669.github.io/React-QuizApp/)
- 
- [Check out the LinkedIn Post with Video Demo](https://www.linkedin.com/posts/vinay1998_reactjs-webdevelopment-frontenddevelopment-activity-7125437291241644032-3ko7?utm_source=share&utm_medium=member_desktop)
 
 ## 🛠️Technology Used 
 
